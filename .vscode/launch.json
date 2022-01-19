@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "l004_Recursion.TowerOfHanoi",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pzz",
+            "request": "launch",
+            "mainClass": "l004_Recursion.Pzz",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerLogarithmic",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PowerLogarithmic",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnyBaseToDecimal",
+            "request": "launch",
+            "mainClass": "l001_Functions.AnyBaseToDecimal",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryToAnyBase",
+            "request": "launch",
+            "mainClass": "l001_Functions.BinaryToAnyBase",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "l001_Functions.BinaryToDecimal",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountDigitsOfNumber",
+            "request": "launch",
+            "mainClass": "l001_Functions.CountDigitsOfNumber",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToAnybase",
+            "request": "launch",
+            "mainClass": "l001_Functions.DecimalToAnybase",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecimalToBinary",
+            "request": "launch",
+            "mainClass": "l001_Functions.DecimalToBinary",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacciTilln",
+            "request": "launch",
+            "mainClass": "l001_Functions.FibonacciTilln",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch GcdAndLcm",
+            "request": "launch",
+            "mainClass": "l001_Functions.GcdAndLcm",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch InverseOfNumber",
+            "request": "launch",
+            "mainClass": "l001_Functions.InverseOfNumber",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "l001_Functions.Prime",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeTilln",
+            "request": "launch",
+            "mainClass": "l001_Functions.PrimeTilln",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseOfNumber",
+            "request": "launch",
+            "mainClass": "l001_Functions.ReverseOfNumber",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateNumber",
+            "request": "launch",
+            "mainClass": "l001_Functions.RotateNumber",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch anyBaseToAnyBase",
+            "request": "launch",
+            "mainClass": "l001_Functions.anyBaseToAnyBase",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch digitsOfNumber",
+            "request": "launch",
+            "mainClass": "l001_Functions.digitsOfNumber",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch functions",
+            "request": "launch",
+            "mainClass": "l001_Functions.functions",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch printZ",
+            "request": "launch",
+            "mainClass": "l001_Functions.printZ",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "l004_Recursion.Factorial",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerLinear",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PowerLinear",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintDecreasing",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PrintDecreasing",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintIncreasing",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PrintIncreasing",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintIncreasingDecreasing",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PrintIncreasingDecreasing",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdditionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "l025_Array.AdditionOfTwoArrays",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarChart",
+            "request": "launch",
+            "mainClass": "l025_Array.BarChart",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "l025_Array.BinarySearch",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExitPointOfMatrix",
+            "request": "launch",
+            "mainClass": "l025_Array.ExitPointOfMatrix",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindElementInArray",
+            "request": "launch",
+            "mainClass": "l025_Array.FindElementInArray",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "l025_Array.MatrixMultiplication",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseAnArray",
+            "request": "launch",
+            "mainClass": "l025_Array.ReverseAnArray",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateBy90Degree",
+            "request": "launch",
+            "mainClass": "l025_Array.RotateBy90Degree",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpanOfArray",
+            "request": "launch",
+            "mainClass": "l025_Array.SpanOfArray",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralDisplay",
+            "request": "launch",
+            "mainClass": "l025_Array.SpiralDisplay",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch StateOfWakanda_1",
+            "request": "launch",
+            "mainClass": "l025_Array.StateOfWakanda_1",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubtractionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "l025_Array.SubtractionOfTwoArrays",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArray",
+            "request": "launch",
+            "mainClass": "l025_Array.TwoDArray",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromicSubstring",
+            "request": "launch",
+            "mainClass": "l026_String.PalindromicSubstring",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PermutationsOfString",
+            "request": "launch",
+            "mainClass": "l026_String.PermutationsOfString",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveAllPrime",
+            "request": "launch",
+            "mainClass": "l026_String.RemoveAllPrime",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringCompression",
+            "request": "launch",
+            "mainClass": "l026_String.StringCompression",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringWithDifference",
+            "request": "launch",
+            "mainClass": "l026_String.StringWithDifference",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch ToggleCase",
+            "request": "launch",
+            "mainClass": "l026_String.ToggleCase",
+            "projectName": "javaClass2021-22"
+        }
+    ]
+}
