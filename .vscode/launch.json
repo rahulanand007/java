@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DisplayArrayInReverse",
+            "request": "launch",
+            "mainClass": "l004_Recursion.DisplayArrayInReverse",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayArray",
+            "request": "launch",
+            "mainClass": "l004_Recursion.DisplayArray",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
             "name": "Launch TowerOfHanoi",
             "request": "launch",
             "mainClass": "l004_Recursion.TowerOfHanoi",
