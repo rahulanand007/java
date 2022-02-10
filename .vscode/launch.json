@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LastIndex",
+            "request": "launch",
+            "mainClass": "l004_Recursion.LastIndex",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
             "name": "Launch FirstIndex",
             "request": "launch",
             "mainClass": "l004_Recursion.FirstIndex",
