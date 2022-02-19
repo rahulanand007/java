@@ -26,14 +26,14 @@ public class GetMazePathsWithJumps {
         for(int i=1; i<=dr-sr ;i++){
             ArrayList<String> rowres =  getMazePaths(sr+i, sc, dr, dc);
             for(String val: rowres){
-                res.add("h"+ i + val);
+                res.add("v"+ i + val);
             }  
         }
         
         for(int j=1; j<=dc-sc ;j++){
             ArrayList<String> colres =  getMazePaths(sr, sc+j, dr, dc);
             for(String val: colres){
-                res.add("v"+ j + val);
+                res.add("h"+ j + val);
             }
         }
         
