@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GetMazePathsWithJumps",
+            "request": "launch",
+            "mainClass": "l004_Recursion.GetMazePathsWithJumps",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetMazePaths",
+            "request": "launch",
+            "mainClass": "l004_Recursion.GetMazePaths",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetStairPaths",
+            "request": "launch",
+            "mainClass": "l004_Recursion.GetStairPaths",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "l004_Recursion.Sample",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
             "name": "Launch LastIndex",
             "request": "launch",
             "mainClass": "l004_Recursion.LastIndex",
