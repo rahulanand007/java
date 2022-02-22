@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrintPermutations",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PrintPermutations",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintMazePathsWithJumps",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PrintMazePathsWithJumps",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintMazePath",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PrintMazePath",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintStairPaths",
+            "request": "launch",
+            "mainClass": "l004_Recursion.PrintStairPaths",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetKpc",
+            "request": "launch",
+            "mainClass": "l004_Recursion.GetKpc",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
             "name": "Launch GetMazePathsWithJumps",
             "request": "launch",
             "mainClass": "l004_Recursion.GetMazePathsWithJumps",
