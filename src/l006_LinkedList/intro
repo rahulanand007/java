@@ -1,0 +1,4 @@
+Linked list contains 2 parts - 1. data 2. address of next node.
+Data in linked list doesn't need to be continous.
+consumes more memory than array
+

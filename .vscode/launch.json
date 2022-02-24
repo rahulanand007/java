@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "l005_DP.Fibonacci",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
             "name": "Launch PrintPermutations",
             "request": "launch",
             "mainClass": "l004_Recursion.PrintPermutations",
