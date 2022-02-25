@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RemoveLastInLL",
+            "request": "launch",
+            "mainClass": "l006_LinkedList.RemoveLastInLL",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
             "name": "Launch Fibonacci",
             "request": "launch",
             "mainClass": "l005_DP.Fibonacci",
