@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AllIndecesOfArray",
+            "request": "launch",
+            "mainClass": "l004_Recursion.AllIndecesOfArray",
+            "projectName": "javaClass2021-22"
+        },
+        {
+            "type": "java",
             "name": "Launch RemoveLastInLL",
             "request": "launch",
             "mainClass": "l006_LinkedList.RemoveLastInLL",
